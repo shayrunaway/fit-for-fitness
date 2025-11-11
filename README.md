@@ -7,4 +7,4 @@ The beginnings of a website for a fitness club to practice using Bootstrap and F
 https://ozarktechwebdev.com/shayna/fit-for-fitness
 https://github.com/shayrunaway/fit-for-fitness.git
 
-(image.png)
+<img src="photos/screenshot.png">
